@@ -11,7 +11,7 @@ name:
 postnominals:
   - PhD
 status:
-  icon: "☕️"
+  icon: "🔭"
 role: Astrophysicist
 bio: |
   I am an astrophysicist interested in the astrophysical phenomenology of dark matter spanning length scales from pc to Mpc.
@@ -61,6 +61,8 @@ education:
 experience:
   - role: PhD researcher
     org: University of Hamburg
+    start: 2022-10-15
+    end: 2026-02-28
   - role: Master thesis
     org: TTK, RWTH Aachen University
     start: 2021-10-01
@@ -72,26 +74,26 @@ skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
-      - label: C++
-        level: 5
-      - label: Rust
         level: 4
+      - label: C++
+        level: 4
+      - label: Rust
+        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
-        level: 8
-      - label: Conference Presentations
-        level: 8
-      - label: Grant Proposals
         level: 4
+      - label: Conference Presentations
+        level: 4
+      - label: Grant Proposals
+        level: 2
 
 languages:
   - name: English
-    level: 10
+    level: 5
     label: Native
   - name: German
-    level: 2
+    level: 1
     label: Beginner
 
 # awards:
