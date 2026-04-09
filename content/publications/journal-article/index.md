@@ -1,15 +1,17 @@
 ---
-title: "An example journal article"
+title: "Simulations of Galaxy Cluster Mergers with Velocity-Dependent, Rare, and Frequent Self-Interactions"
 authors:
 - me
-- Robert Ford
+- Marcus Bruggen
+- Kai Schmidt-Hoberg
+- Moritz S. Fischer
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*MNRAS, 529*(2032-2046)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Source Themes
@@ -35,19 +37,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
+    url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2032S
   - type: video
     url: ""
 
