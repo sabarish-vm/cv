@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Sabarish Venkataramani Malathi
-  given: Sabarish
-  family: Venkataramani Malathi
+  display: 'Sabarish Venkataramani Malathi'
+  given: 'Sabarish'
+  family: 'Venkataramani Malathi'
   alternate: ''
   pronunciation: ''
   pronouns: ''
@@ -50,16 +50,16 @@ education:
   - degree: MSc Physics
     specialization: Comology and astroparticle physics
     institution: RWTH Aachen University
-    start: 2020
-    end: 2022
+    start: '2020'
+    end: '2022'
   - degree: MSc Physics
     institution: University of Madras
-    start: 2017
-    end: 2019
+    start: '2017'
+    end: '2019'
   - degree: BSc Physics
     institution: University of Madras
-    start: 2013
-    end: 2016
+    start: '2013'
+    end: '2016'
 
 experience:
   - role: PhD researcher
