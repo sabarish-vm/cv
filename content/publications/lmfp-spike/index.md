@@ -24,9 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
@@ -34,13 +32,11 @@ hugoblox:
 links:
   - type: link
     url: https://ui.adsabs.harvard.edu/abs/2025A&A...703A.142S
-  - type: video
-    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Accretion rate as function of cross-section'
   focal_point: ""
   preview_only: false
 

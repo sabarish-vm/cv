@@ -74,7 +74,7 @@ experience:
       Prepared Bayesian sensitivity forecasts for certain cosmological models for the Euclid and LiteBIRD satellite missions.
 
 skills:
-  - name: Technical Skills
+  - name: Programming languages
     items:
       - label: Python
         level: 4
@@ -82,13 +82,19 @@ skills:
         level: 4
       - label: Rust
         level: 3
+      - label: Julia
+        level: 3
+      - label: Mathematica
+        level: 3
+      - label: Zig
+        level: 2
+  - name : Others
+    items:
       - label: Git
         level: 4
       - label: Bash
         level: 4
-      - label: Julia
-        level: 3
-        
+
   - name: Research & Communication
     items:
       - label: Academic Writing
