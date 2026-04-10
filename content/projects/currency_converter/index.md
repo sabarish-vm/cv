@@ -10,4 +10,4 @@ tags:
 ---
 
 Currency converter for CLI written in rust. The forex rates are obtained from ecb.europa.eu and stored locally. Forex rates are updated by ECB only once per day, therefore these are NOT LIVE exchange rates.
-<!--more-->
+In addition to the binary, completion files for bash and zsh are also provided.
