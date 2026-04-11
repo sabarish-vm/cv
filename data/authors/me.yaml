@@ -15,10 +15,10 @@ status:
 role: Astrophysicist
 bio: |
   I am an astroparticle physicist by training.
-  I have primarily worked on the astrophysical phenomenology of dark matter spanning length scales from pc to Mpc.
-  I am also interested in opensource software development, high performance computing, computational physics, science pedagogy and outreach activities.
+  I have primarily worked on the astrophysical phenomenology of dark matter spanning length scales from parsecs to megaparsecs.
+  I am also interested in opensource software development, high performance computing, computational physics, science pedagogy and communication.
 affiliations:
-  - name: University of Hamburg
+  - name: University of Hamburg, Germany
     url: ''
 
 links:
@@ -41,7 +41,7 @@ interests:
 
 education:
   - degree: PhD Physics
-    institution: University of Hamburg
+    institution: University of Hamburg, Germany
     start: 2022-10-15
     end: 2026-02-28
     summary: |
@@ -52,25 +52,25 @@ education:
       icon: hero/arrow-down-tray
   - degree: MSc Physics
     specialization: Comology and astroparticle physics
-    institution: RWTH Aachen University
+    institution: RWTH Aachen University, Germany
     start: '2020'
     end: '2022'
   - degree: MSc Physics
-    institution: University of Madras
+    institution: University of Madras, India
     start: '2017'
     end: '2019'
   - degree: BSc Physics
-    institution: University of Madras
+    institution: University of Madras, India
     start: '2013'
     end: '2016'
 
 experience:
   - role: PhD researcher
-    org: University of Hamburg
+    org: University of Hamburg, Germany
     start: 2022-11-01
     end: 2026-02-28
   - role: Master thesis research
-    org: TTK, RWTH Aachen University
+    org: TTK, RWTH Aachen University, Germany
     start: 2021-10-01
     end: 2022-09-30
     summary: |

@@ -34,6 +34,7 @@ image:
 ---
 <br>
 
-The above given figure shows the accretion rate as a function of self-interaction cross-section per unit dark matter mass for a steady state profile of self-interacting dark matter around a supermassive black hole of mass $\rm 10^{10}\ M_{\odot}$.
+The above given figure shows the accretion rate as a function of self-interaction cross-section per unit dark matter mass.
+The simulation is setup around a supermassive black hole of mass $\rm 10^{10}\ M_{\odot}$.
 In the paper we further illustrate that accretion rate will always be sub-Eddington for regular host dark matter haloes.
 Super Eddington rates could become possible if the host halo can undergo a gravothermal collapse.
